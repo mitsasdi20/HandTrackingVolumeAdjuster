@@ -1,5 +1,7 @@
 # Hand Tracking Volume Adjuster
 
+<img width="642" height="512" alt="image" src="https://github.com/user-attachments/assets/fce50103-c689-498d-add6-fce7615d93a4" />
+
 Control the system volume on Windows by pinching your thumb and index finger in front of the webcam. Uses MediaPipe for hand tracking and pycaw to talk to the Windows audio endpoint.
 
 ## Requirements
